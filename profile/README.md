@@ -6,7 +6,7 @@ We aim to serve members of the public, activist groups, journalists, and researc
 Open States aggregates legislative information from all 50 states, Washington, D.C., and Puerto Rico. 
 This information is then standardized, cleaned, and published to the public via [OpenStates.org](https://openstates.org), a powerful [API](https://openstates.org/api/), and [bulk downloads](https://openstates.org/data/). 
 
-As of 2021, Open States is a project of [Civic Eagle](https://www.civiceagle.com/).
+As of 2021, Open States is a project of [Plural](https://www.pluralpolicy.com/).
 
 ## Contributing
 
